@@ -21,3 +21,5 @@ __asm__ {
   // ...it's an assumption!).
 }
 ```
+
+**READ:** https://gcc.gnu.org/onlinedocs/gccint/Function-Entry.html
